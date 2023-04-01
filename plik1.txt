@@ -2,3 +2,4 @@ hej jestem plikiem pierwszym
 zmodyfikowanym
 1 zmiana
 2 zmiana
+kolejna
